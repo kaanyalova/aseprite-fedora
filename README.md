@@ -39,7 +39,7 @@ sudo dnf install ~/rpmbuild/RPMS/aseprite-v1.3-1.fc39.x86_64.rpm
 
 ## Distributing
 
-Do not distribute the RPM files , it is against [aseprite's EULA](https://github.com/aseprite/aseprite/blob/main/EULA.txt), distributing SRC.RPMs should be fine as all of the source code is downloaded when building.
+Do not distribute the built RPM packages, it is against the [aseprite's EULA](https://github.com/aseprite/aseprite/blob/main/EULA.txt), distributing SRC.RPMs should be fine as all of the source code is downloaded when building.
 
 ## Support the aseprite devs
 
