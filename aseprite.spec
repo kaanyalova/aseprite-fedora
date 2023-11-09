@@ -13,6 +13,10 @@ Summary:        Animated sprite editor & pixel art tool
 
 License:        CUSTOM
 URL:            https://www.aseprite.org/
+
+# fixed thumbnailer 
+# see https://github.com/aseprite/aseprite/issues/3955
+Source0: aseprite.thumbnailer 
 #Source0:        https://github.com/aseprite/aseprite/releases/download/%version/Aseprite-%{version}-%{_subver}-Source.zip
 #Source1:        https://github.com/aseprite/skia/archive/refs/tags/skia-%{_skia_tag}-%{_skiahash}.zip
 
