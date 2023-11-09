@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=aseprite-thumbnailer
+Exec=aseprite-thumbnailer %i %o %s
+MimeType=image/x-aseprite;
