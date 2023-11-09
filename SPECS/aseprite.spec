@@ -33,7 +33,7 @@ BuildRequires:  python git gcc-c++ clang libcxx-devel cmake ninja-build libX11-d
 
 
 # from the pkgbuild
-Requires: libxcursor fontconfig hicolor-icon-theme libglvnd libcxx
+Requires: libXcursor fontconfig hicolor-icon-theme libglvnd libcxx
 
 
 
